@@ -20,7 +20,7 @@
 		"servicePrincipalClientSecret": {
 			"reference": {
 			  "keyVault": {
-				"id": "/subscriptions/64981189-06b0-4d84-91b1-753b2a66ab7f/resourceGroups/k8s-Resource-group/providers/Microsoft.KeyVault/vaults/Kubernetes-Key-Vault"
+				"id": "ID"
 			  },
 			  "secretName": "K8SKey"
 			}
